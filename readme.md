@@ -3,3 +3,4 @@
 <p>O programa roda no terminal e funciona de forma similar a um caça-palavras.</p>
 <p>Basicamente, o usuário entra com o tamanho da grade e um texto, que é transformado em um caça-palavras.</p>
 <p>Em seguida, o usuário pode pesquisar palavras no caça-palavras, e o programa o informará se a palavra existe ou não na matriz de caracteres.</p>
+<img src="caca-palavras.png" >
